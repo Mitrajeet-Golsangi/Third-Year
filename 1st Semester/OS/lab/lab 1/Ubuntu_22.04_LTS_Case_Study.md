@@ -19,8 +19,15 @@
 
 - Version *22.04 LTS* of the Ubuntu linux distribution, with the release code **Jammy Jellyfish**
 
--
-
 ## Development
 
-## Future
+- Ubuntu linux distribution is developed and maintained by Canonical
+
+## Futures
+
+- Low hardware requirements
+- Open source security
+- Freeware
+- Carrier grade private cloud
+- Processor independent
+- Multi-cloud Kubernetes and containers
