@@ -1,0 +1,4 @@
+total 16
+-rwxrwxrwx 1 mitrajeet mitrajeet    0 Aug 22 15:54 list.txt
+-rwxrwxrwx 1 mitrajeet mitrajeet 6432 Aug 22 15:37 mydate.txt
+-rwxrwxrwx 1 mitrajeet mitrajeet 6432 Aug 22 15:40 ourdate.txt
