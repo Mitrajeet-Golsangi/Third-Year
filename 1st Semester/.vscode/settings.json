@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.ejs": "html",
+		"*.vb": "vb",
+		"*.rmd": "markdown",
+		"*.html": "html",
+		"*.ino": "arduino",
+		"initializer_list": "cpp"
+	},
+	"python.formatting.provider": "black"
+}

@@ -1,0 +1,38 @@
+body {
+	padding: 5%;
+}
+
+.title {
+	color: yellowgreen;
+	width: 100%;
+	text-align: center;
+    font-weight: 400;
+}
+
+.accordion {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.accordion-item {
+	width: 100%;
+	height: fit-content;
+	margin-top: 2%;
+}
+
+.accordion-item .heading {
+	padding: 2%;
+	font-size: larger;
+	background-color: yellowgreen;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.accordion-item .body {
+	display: none;
+	background-color: #efffce;
+	padding: 1% 4% 1% 4%;
+}

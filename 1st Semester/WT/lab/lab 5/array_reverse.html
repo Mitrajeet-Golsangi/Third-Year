@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Array Reversal</title>
+
+        <!---------------------------- Bootstrap CDN ---------------------------->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"
+            defer></script>
+        <!---------------------------- End Bootstrap CDN ---------------------------->
+    </head>
+
+    <body class="container py-4">
+        <form>
+            <div class="form-group">
+                <label class="form-label">Array Element 0</label>
+                <input id="input-0" type="number" class="form-control" />
+            </div>
+        </form>
+
+        <button class="btn btn-block btn-primary rounded-full mt-5" type="button" id="add-btn">Add Element</button>
+        <button class="btn btn-block btn-primary rounded-full mt-5" type="button" id="reverse-btn">Reverse</button>
+        <button class="btn btn-block btn-primary rounded-full mt-5" type="button"
+            onclick="location.reload()">Reset</button>
+        <div style="margin-top: 2%; width: 100%; text-align: center;">
+            <span>Output : </span>
+            <span id="output" style="letter-spacing: 1%;"></span>
+        </div>
+        <script src="./script.js"></script>
+    </body>
+
+</html>
