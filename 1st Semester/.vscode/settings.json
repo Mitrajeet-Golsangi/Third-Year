@@ -5,7 +5,14 @@
 		"*.rmd": "markdown",
 		"*.html": "html",
 		"*.ino": "arduino",
-		"initializer_list": "cpp"
+		"initializer_list": "cpp",
+		"vector": "cpp",
+		"iostream": "cpp",
+		"limits": "cpp",
+		"utility": "cpp",
+		"queue": "cpp",
+		"ostream": "cpp",
+		"iomanip": "cpp"
 	},
 	"python.formatting.provider": "black"
 }

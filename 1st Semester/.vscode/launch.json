@@ -1,0 +1,18 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Debug",
+			"type": "cppdbg",
+			"request": "launch",
+			"args": [],
+			"stopAtEntry": false,
+			"cwd": "${fileDirname}",
+			"environment": [],
+			"externalConsole": false,
+			"MIMode": "gdb",
+			"miDebuggerPath": "C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/gdb.exe",
+			"program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+		}
+	]
+}
