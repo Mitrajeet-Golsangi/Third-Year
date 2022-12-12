@@ -12,7 +12,10 @@
 		"utility": "cpp",
 		"queue": "cpp",
 		"ostream": "cpp",
-		"iomanip": "cpp"
+		"iomanip": "cpp",
+		"xutility": "cpp"
 	},
-	"python.formatting.provider": "black"
+	"python.formatting.provider": "black",
+	"C_Cpp.errorSquiggles": "enabled",
+	"cSpell.words": ["beginread", "beginwrite", "endread", "endwrite"]
 }

@@ -3,7 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "${default}"
+                "${default}",
+                "C:\\vcpkg\\installed\\x86-windows\\include",
+                "C:\\vcpkg\\installed\\x64-windows\\include"
             ],
             "defines": [
                 "_DEBUG",
