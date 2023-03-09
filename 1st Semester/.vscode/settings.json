@@ -13,7 +13,8 @@
 		"queue": "cpp",
 		"ostream": "cpp",
 		"iomanip": "cpp",
-		"xutility": "cpp"
+		"xutility": "cpp",
+		"xstring": "cpp"
 	},
 	"python.formatting.provider": "black",
 	"C_Cpp.errorSquiggles": "enabled",
